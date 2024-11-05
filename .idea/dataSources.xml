@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="ForumSystem@forumsystem.cpy86y2sqlgo.eu-north-1.rds.amazonaws.com" uuid="bba8eab8-be15-4b52-9e28-da1d7a6d6469">
+    <data-source source="LOCAL" name="mariadb" uuid="8b062009-0f90-4986-9e75-504135e66049">
       <driver-ref>mariadb</driver-ref>
       <synchronize>true</synchronize>
       <imported>true</imported>
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mariadb://forumsystem.cpy86y2sqlgo.eu-north-1.rds.amazonaws.com:3306/ForumSystem</jdbc-url>
+      <jdbc-url>jdbc:mariadb://alexanderdbase.cpy86y2sqlgo.eu-north-1.rds.amazonaws.com</jdbc-url>
       <jdbc-additional-properties>
         <property name="com.intellij.clouds.kubernetes.db.host.port" />
         <property name="com.intellij.clouds.kubernetes.db.enabled" value="false" />

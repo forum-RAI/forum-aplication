@@ -36,6 +36,9 @@ dependencies {
     //OAuth2 client
     implementation 'org.springframework.boot:spring-boot-starter-oauth2-client'
 
+    // import org.springframework beans
+
+
 
     compileOnly 'org.projectlombok:lombok'
     annotationProcessor 'org.projectlombok:lombok'
